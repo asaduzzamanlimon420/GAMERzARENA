@@ -1,0 +1,145 @@
+[
+  {
+    "_id" : 1,
+    "title" : "Apex Legend",
+    "description" : "This is a f2p hero shooter game where competitors battle for glory,",
+    "level" : "High",
+    "catagory" : "Battle",
+    "rating" : 4,
+    "discount" : 0,
+    "price" : 99.0,
+    "img" : "./assets/images/apex-legend.jpg",
+    "active" : true
+
+  },
+  {
+    "_id" : 2,
+    "title" : "Assassin's Creed",
+    "description" : "Assassin's Creed is a historical action-adventure video game",
+    "level" : "High",
+    "catagory" : "Strategy",
+    "rating" : 4,
+    "discount" : 0.2,
+    "price" : 99,
+    "img" : "./assets/images/assassin's creed.jpg",
+    "active" : false
+
+  },
+  {
+    "_id" : 3,
+    "title" : "Call of duty",
+    "description" : "This is a multiplayer battle game.",
+    "level" : "High",
+    "catagory" : "BAttle",
+    "rating" : 4,
+    "discount" : 0.1,
+    "price" : 90,
+    "img" : "./assets/images/call of duty.jpeg",
+    "active" : false
+
+  },
+  {
+    "_id" : 4,
+    "title" : "Controll",
+    "description" : "Control is a visually stunning third-person action-adventure game",
+    "level" : "Medium",
+    "catagory" : "Build",
+    "rating" : 3,
+    "discount" : 0.4,
+    "price" : 60,
+    "img" : "./assets/images/controll.jpg",
+    "active" : false
+
+  },
+  {
+    "_id" : 5,
+    "title" : "Darksoul",
+    "description" : "Dark Souls is a dark fantasy action role-playing game series",
+    "level" : "Medium",
+    "catagory" : "Battle",
+    "rating" : 3,
+    "discount" : 0.1,
+    "price" : 50,
+    "img" : "./assets/images/darksoul.jpg",
+    "active" : false
+
+  },
+  {
+    "_id" : 6,
+    "title" : "Fallout 2",
+    "description" : "A Post Nuclear Role Playing Game is a 1998 role-playing video game",
+    "level" : "Medium",
+    "catagory" : "Battle",
+    "rating" : 3,
+    "discount" : 0.3,
+    "price" : 60,
+    "img" : "./assets/images/fallout.jpeg",
+    "active" : false
+
+  },
+  {
+    "_id" : 7,
+    "title" : "Fortnite",
+    "description" : "Play Fortnite Battle Royale and Creative mode for free at the Epic Games Store",
+    "level" : "High",
+    "catagory" : "Battle",
+    "rating" : 4,
+    "discount" : 0.4,
+    "price" : 90,
+    "img" : "./assets/images/fortnite.jpg",
+    "active" : false
+
+  },
+  {
+    "_id" : 8,
+    "title" : "Journey",
+    "description" : "Journey is the closest a video game has come to emulating the effects of poetry.",
+    "level" : "Entry",
+    "catagory" : "Journey",
+    "rating" : 2,
+    "discount" : 0.2,
+    "price" : 45,
+    "img" : "./assets/images/journey.jpg",
+    "active" : false
+
+  },
+  {
+    "_id" : 9,
+    "title" : "League of Legend",
+    "description" : "This is a team-based game with over 140 champions to make epic plays with.",
+    "level" : "High",
+    "catagory" : "Battle",
+    "rating" : 4,
+    "discount" : 0.1,
+    "price" : 85,
+    "img" : "./assets/images/league of legend.jpeg",
+    "active" : false
+
+  },
+  {
+    "_id" : 10,
+    "title" : "Monster Hunter",
+    "description" : "Monster Hunter: World is a 2018 action role-playing game",
+    "level" : "Medium",
+    "catagory" : "Strategy",
+    "rating" : 3,
+    "discount" : 0.2,
+    "price" : 40,
+    "img" : "./assets/images/monsterhunter.jpg",
+    "active" : false
+
+  },
+  {
+    "_id" : 11,
+    "title" : "TitanFall",
+    "description" : "Titanfall is a media franchise that mainly features first-person shooter games",
+    "level" : "Low",
+    "catagory" : "Strategy",
+    "rating" : 3,
+    "discount" : 0.3,
+    "price" : 50,
+    "img" : "./assets/images/titanfall.jpg",
+    "active" : false
+
+  }
+]
